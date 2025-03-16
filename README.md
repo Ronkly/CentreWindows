@@ -5,4 +5,4 @@ Anyway, this program simply moves the window you're focused on if you press righ
 Right now it's a console program and soon I'll make it a proper window that can also be hidden in the **TRAY!!!**
 And also it doesn't check if you release Shift.
 
-Hope it helps once I release it!
+Hope it helps at least at this state.
